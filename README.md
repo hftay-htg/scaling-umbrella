@@ -2,7 +2,7 @@
 
 Instructions:
 
-Given an n x n array, return the array elements arranged from outermost elements to the middle element, traveling clockwise.
+Given an n x n array, write a function that returns the array elements arranged from outermost elements to the middle element, traveling clockwise.
 
 ```
 array = [[1,2,3],
